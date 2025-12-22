@@ -1,11 +1,11 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=850&height=60&lines=Hi+👋,+I'm+Dilranjan;Automation+Developer+⚡;AI+Enthusiast+🤖;Problem+Solver+🚀;Tech+Explorer+☁️" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=900&height=70&lines=Hi+👋,+I'm+Dilranjan;Automation+Developer+⚡;Generative+AI+%26+Agentic+AI+Explorer+🤖;Building+Systems+That+Think,+Decide+%26+Act" />
 </p>
 
 <p align="center">
   <a href="https://dilranjan.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dilranjankumar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,46 +17,56 @@
 
 ---
 
-# 👨‍💻 About Me  
+## 👨‍💻 Who Am I?
 
-💡 **“Automating today for a smarter tomorrow.”**  
+💡 **“I automate workflows today and design intelligent systems for tomorrow.”**
 
-💻 Automation Developer | 🤖 AI Enthusiast | ☁️ Tech Explorer  
+I’m an **Automation Developer** transitioning deeply into  
+**Generative AI & Agentic AI systems** — focused on building software that doesn’t just execute commands, but **reasons, plans, and acts autonomously**.
 
-🔹 I create **AI-powered assistants** & **automation tools**  
-🔹 Experienced in **Python, Selenium, FastAPI, Cloud**  
-🔹 Passionate about **building systems that think & act smart**  
-
----
-
-## 🛠 Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,fastapi,flask,react,tailwind,docker,linux,git,github,ai,cloud" />
-</p>
+I enjoy turning **complex problems into self-operating systems** using Python, APIs, and AI models.
 
 ---
 
-## 📊 GitHub Insights  
+## 🧠 What I’m Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilranjan&show_icons=true&theme=radical&hide_border=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilranjan&layout=compact&theme=radical&hide_border=true" height="170em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilranjan&theme=radical&hide_border=true" height="170em" />
-</p>
-
-
-## 🌍 Vision & Mission  
-
-✨ **Vision**: To create automation & AI systems that empower businesses and individuals worldwide.  
-⚡ **Mission**: Simplify workflows, reduce repetitive tasks, and build smarter digital ecosystems.  
+- 🤖 **Generative AI** (LLMs, prompt-driven systems, AI assistants)
+- 🧩 **Agentic AI** (multi-step reasoning, tool-using agents)
+- ⚙️ **Automation Engineering** (end-to-end workflow automation)
+- 🐍 **Python Backend Systems**
+- 🧠 **Decision-making & logic-driven architectures**
 
 ---
 
-## 🌐 Connect With Me  
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,fastapi,flask,docker,linux,git,github" />
+</p>
+
+**Core Tools**
+- Python (Advanced)
+- Automation (Selenium, scripting)
+- FastAPI / Flask
+- JSON & API-based systems
+- Git, Linux, Docker
+- AI-assisted development workflows
+
+---
+
+## 🌍 Vision
+
+✨ **Vision**  
+To build **AI-driven autonomous systems** that reduce human cognitive load and make technology proactive instead of reactive.
+
+⚡ **Mission**  
+- Combine automation with intelligence  
+- Build agents that can **observe → decide → act**  
+- Grow into a **global AI & Automation engineer**
+
+---
+
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dilranjankumar/">
@@ -72,4 +82,5 @@
 
 ---
 
-⭐ From [Dilranjan](https://github.com/Dilranjan)
+⭐ *Exploring the intersection of Automation, Generative AI & Agentic Intelligence*  
+— **Dilranjan** 🚀
